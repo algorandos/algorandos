@@ -1,4 +1,4 @@
-# Examples
+# Gallery
 
 # Example 1:
 
