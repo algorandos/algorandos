@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: AlgoRando
+author: AlgoRando
+email: hello@algorandos.art
+
+# social links
+twitter_username: algorandos
+github_username:  algorandos
+
+# Build settings
+theme: minima
+
+
+plugins:
+ - jekyll-seo-tag
