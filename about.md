@@ -1,2 +1,2 @@
-# AR About
-AlgoRandos project about.md file
+# About
+AlgoRandos is a new generative art project
