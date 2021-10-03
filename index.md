@@ -8,7 +8,7 @@ AlgoRandos are unique visual artworks created by custom software based on the [C
 
 The text prompts used to create the images are typically made up of a description of a scene or character, and a description of the image style. The image begins as random noise and a neural net trained to classify images optimizing the output over many iterations so it better represents the text prompt.
 
-The scripting developed for AlgoRandos uses multiple stages to refine the image. The first stages have a high rate of change, and often vary drastically over a few iterations. The later stages condense the imagery to be more coherent and improve the aesthetic clarity. Many of the images produced are manually filtered out and only the most interesting creations are finalized. The filtering process may change or be removed as the overall technique is refined. Most images take at least 500 iterations on a special GPU operating for more than 30 minutes to generate.
+The scripting developed for AlgoRandos uses multiple stages to refine the image. The first stages have a high rate of change, and often vary drastically over a few iterations. The later stages condense the imagery to be more coherent and improve the aesthetic clarity. Many of the images produced are manually filtered out and only the most interesting creations are finalized. The filtering process may change or be removed as the overall technique is refined. Most images take at least 500 iterations on a 48GB VRAM GPU operating for more than 30 minutes to generate.
 
 ## Community Creative Contribution
 
