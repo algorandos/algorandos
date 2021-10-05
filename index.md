@@ -19,8 +19,6 @@ Future sets of AlgoRandos NFTs will incorporate community contributed text promp
 ## Rando Token
 Rando is an Algorand ASA token ([#339049094](https://algoexplorer.io/asset/339049094)) created for the this project. Rando tokens are given to participants and supporters of the project. The token can be used to vote for the selection generative artwork prompts. Eventually, Rando prompt staking may allow for royalty rights assignment for NFTs generated and minted based on the prompt.
 
-![AlgoRandos development roadmap](/assets/img/web/algorandos-rando_functions.png)
-
 ## Get Involved
 The full development roadmap for the AlgoRandos project is ambitious and will depend on the success of the earlier phases. The image generation back-end, a voting interface web front-end, and a smart contract for handling NFT minting are the three distinct areas of development. Early phase Rando distribution and prompt-voting will be settled manually in order to demonstrate the core concepts of the project.
 
