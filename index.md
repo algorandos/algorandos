@@ -10,14 +10,14 @@ The text prompts used to create the images are typically made up of a descriptio
 
 The scripting developed for AlgoRandos uses multiple stages to refine the image. The first stages have a high rate of change, and often vary drastically over a few iterations. The later stages condense the imagery to be more coherent and improve the aesthetic clarity. Many of the images produced are manually filtered out and only the most interesting creations are finalized. The filtering process may change or be removed as the overall technique is refined. Most images take at least 500 iterations on a 48GB VRAM GPU operating for more than 30 minutes to generate.
 
-## Community Creative Contribution
+## Community Creative Involvement
 
-Future sets of AlgoRandos NFTs will incorporate community contributed text prompt. Unique and creative text prompts can produce fascinating, surprising results. The more creativity applied to this technology, the more interesting the outcome is likely to be. This project will eventually use crowd-sourced, and crowd-sourced weighting of which prompts are selected by a random number generator.
+Future sets of AlgoRandos NFTs will incorporate community contributed text prompt. Unique text prompts can produce fascinating, surprising results. The more creativity applied to this technology, the more interesting the outcome is likely to be. Text prompts, and other generative art input parameters, can be chosen by community voting via the Rando token.
 
 ![AlgoRandos development roadmap](/assets/img/web/algorandos-dev_roadmap.png)
 
 ## Rando Token
-Rando is an Algorand ASA token ([#339049094](https://algoexplorer.io/asset/339049094)) created for the this project. Rando tokens are given to participants and supporters of the project. The token can be used to vote for the selection generative artwork prompts. Eventually, Rando prompt staking may allow for royalty rights assignment for NFTs generated and minted based on the prompt.
+Rando is an Algorand ASA token ([#339049094](https://algoexplorer.io/asset/339049094)) created for the this project. Rando tokens are given to participants and supporters of the project. The token can be used to vote for the selection generative artwork prompts. Eventually, Rando prompt staking may allow for royalty rights assignment for NFTs that are successfully generated and minted based on the prompt.
 
 ## Get Involved
 The full development roadmap for the AlgoRandos project is ambitious and will depend on the success of the earlier phases. The image generation back-end, a voting interface web front-end, and a smart contract for handling NFT minting are the three distinct areas of development. Early phase Rando distribution and prompt-voting will be settled manually in order to demonstrate the core concepts of the project.
